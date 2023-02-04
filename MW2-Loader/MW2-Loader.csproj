@@ -7,7 +7,7 @@
     <ProjectGuid>{EA2E17C7-1CF8-4EAB-A44C-CCD04FA3759D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WinTroy_UI</RootNamespace>
-    <AssemblyName>WinTroy_UI</AssemblyName>
+    <AssemblyName>Loader</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
